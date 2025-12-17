@@ -1,0 +1,5 @@
+Venv
+__pycache__
+DS_Store 
+cleaning.ipynb
+data_preprocessing.ipynb
