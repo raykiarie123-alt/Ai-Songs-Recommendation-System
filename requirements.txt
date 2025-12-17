@@ -1,6 +1,6 @@
 fastapi
 pydantic
-Uvicorn
+uvicorn
 scikit-learn
 pandas
 python-multipart
